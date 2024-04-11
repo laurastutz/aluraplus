@@ -1,0 +1,11 @@
+header{
+    background-color: #386145;
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.cabecario-imagem{  
+ width: 20%;
+}
